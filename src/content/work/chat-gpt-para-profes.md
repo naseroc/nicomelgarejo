@@ -1,6 +1,6 @@
 ---
 title: ChatGPT para la enseñanza
-publishDate: 2020-03-02 00:00:00
+publishDate: 2023-05-08 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
