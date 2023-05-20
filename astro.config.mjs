@@ -1,12 +1,13 @@
 import { defineConfig } from 'astro/config';
 import partytown from '@astrojs/partytown';
+import sitemap from "@astrojs/sitemap";
 
-
-export default defineConfig ({
+// https://astro.build/config
+export default defineConfig({
+  site: 'https://nicomelgarejo.com',
   integrations: [partytown({
-    // Example: Add dataLayer.push as a forwarding-event.
-    config: { 
-      forward: ["dataLayer.push"] 
-    },
-  })],
-})
+    config: {
+      forward: ["dataLayer.push"]
+    }
+  }), sitemap()]
+});
