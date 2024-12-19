@@ -18,9 +18,7 @@ Está escrito en simple, con ejercicios desafiantes y recopilación de preguntas
 
 Este libro es especial. Está dedicado a todos los estudiantes que buscan oportunidades con fuego en su corazón 🔥. A aquellos que necesitan ese pequeño empujón para salir adelante, a los que quieren más, a los que se han sentido menospreciados por no tener los recursos necesarios para estudiar 🫂. 
 
-Con este libro, aspiramos a que sea el recurso más completo y amigable para preparar la PAES. Puedes complementarlo con todos los demás servicios que ofrecemos como TIClass. 🚀
-
 Porque creemos en una educación para todos, y estamos aquí para hacerla realidad. 🌍💡
 
-[Inscríbete para recibir el libro aquí](https://click.ticlass.com/l/ec31d72798414c5c) y descubre todo lo que TIClass puede ofrecerte. 
+[Inscríbete para recibir el libro aquí](https://click.ticlass.com/l/ec31d72798414c5c) y descubre todo lo que puedo ofrecerte. 
 
