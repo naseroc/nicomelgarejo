@@ -37,4 +37,4 @@ A pesar del cierre, llevaremos siempre el orgullo de haber contribuido a constru
 
 Gracias por estos casi 10 años de aprendizaje, dedicación y sueños compartidos. 🌟
 
-**Con todo el corazón, equipo TIClass. ❤️**
+**Con todo el corazón, Nico Melgarejo de TIClass. ❤️**
